@@ -1,0 +1,1 @@
+In this poject i have to learn how to deploy a resume with GitHub pages. it was fun but and very instructive.
